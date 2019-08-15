@@ -1,6 +1,7 @@
 
-package com.lambdaschool.authenticatedusers;
+package com.example.demo;
 
+import com.example.demo.mode.User;
 import com.lambdaschool.authenticatedusers.model.Quote;
 import com.lambdaschool.authenticatedusers.model.Role;
 import com.lambdaschool.authenticatedusers.model.User;
